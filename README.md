@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Julliya Kulik 👋
 
-<!--
-**JuliyaKulik/JuliyaKulik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend developer with a focus on React and TypeScript. I love building interfaces that look and work equally well on any device.
+Currently improving my skills in modern frontend development and working with React.
 
-Here are some ideas to get you started:
+💼 Open to job opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+`React` `TypeScript` `Redux Toolkit` `React Router` `Vite` `JavaScript (ES6+)` `HTML5` `CSS3` `REST API` `Git` `Figma`
+
+## 📫 Contact Me
+
+- 📱 **Telegram:** [Telegram @julli_shi](https://t.me/julli_shi)
+- 📧 **Email:** [hey_julli@mail.ru](mailto:hey_julli@mail.ru)
+- 💻 **GitHub:** [github.com/JuliyaKulik](https://github.com/JuliyaKulik)
