@@ -11,6 +11,6 @@ Currently improving my skills in modern frontend development and working with Re
 
 ## 📫 Contact Me
 
-- 📱 **Telegram:** [Telegram @julli_shi](https://t.me/julli_shi)
+- 📱 **Telegram:** [@julli_shi](https://t.me/julli_shi)
 - 📧 **Email:** [hey_julli@mail.ru](mailto:hey_julli@mail.ru)
 - 💻 **GitHub:** [github.com/JuliyaKulik](https://github.com/JuliyaKulik)
