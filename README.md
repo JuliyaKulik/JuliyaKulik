@@ -1,4 +1,4 @@
-## Hi, I'm Julliya Kulik 👋
+## Hi, I'm Juliya Kulik 👋
 
 💻 Frontend developer with a focus on React and TypeScript. I love building interfaces that look and work equally well on any device.
 Currently improving my skills in modern frontend development and working with React.
